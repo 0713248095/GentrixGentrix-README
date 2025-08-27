@@ -1,0 +1,62 @@
+SEMANTIC HTML (STUDENT PERFORMANCE REPORT)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UFT-8">
+<title Student Report -Amina Ayoma</title>
+</head>
+<body>
+<header>
+<h1>Chanderema High school-StudentDashboad</h1>
+</header>
+<nav arial-lable="Student Navigation"
+<ui>
+<li><a href="/Student">Student</a><li>
+<li><ahref="/Report">Report</a></li>
+<li><ahref="/Settings">Settings</></li>
+</ul>
+</nav>
+<main>
+<article>
+<header>
+<h2>Performance Report:Amina Ayuma</h2>
+<p>Grade 20/lD:40346/Academic Year 2024-2925</p><header>
+<Section ld="term-1">
+<h3>Term1Grades and Attendance</caption>
+<head>
+<tr>
+<th scope="col">Subject</th>
+<th Scope=">Grade</th><th
+Scope="col">Attendance</th></tr>
+</thead>
+</tbody>
+<tr>
+<td>English</td>
+<td>A-</td>
+<td>96%</td>
+</tr>
+<tr>
+<td>Science</td>
+<td>B+</td>
+<td>98%</td>
+</tr>
+<tr>
+</td>Mathematics</td>
+<td>A</td>
+<td 95%</td>
+<tr>
+<tbody>
+</table>
+</section>
+<aside>
+<h4>Feedback</h4>
+<p>Excellent effort this term.Amina consistently demonstrate initiative and dedication</p>
+</aside>
+<Foogter>
+<p>Report generated on August 27th 2025</p>
+</Footer>
+</article>
+</Main>
+<Footer>
+<p>and Copy:2025 Chanderema High School</p>
+<p>372TIRIKI,Chanderema/admin@chanderemahigh.edu</p></Footer></body></html>
