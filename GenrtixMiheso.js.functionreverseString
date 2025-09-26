@@ -1,0 +1,9 @@
+//GentrixMiheso.js.functionReverseString
+//function reverseString(str){
+return 
+//str.split("").reverse().join("")}
+//Test the function 
+console.log(reverstring("hello"));//"olleh"
+console.log(reverseString("Mercy"));//"ycrem"
+console.log(reverseString("Mahanaim"));//"mianahaM"
+console.log(reverseString("1234567"));//"7654321"
